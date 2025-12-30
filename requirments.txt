@@ -1,2 +1,7 @@
 django
 pillow
+django-widget-tweaks
+python-dotenv
+django_extensions
+factory_boy
+django-filter
